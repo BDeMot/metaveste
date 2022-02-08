@@ -1,6 +1,13 @@
 # front
 
 ## Project setup
+You'll need Vue CLI
+```
+npm install -g @vue/cli
+
+```
+then
+
 ```
 npm install
 ```
